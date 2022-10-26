@@ -1,7 +1,7 @@
 {
     "name": "tofu's room",
     "short_name": "tofu",
-    "start_url": "https://tofu-s-room.github.io/",
+    "start_url": "/",
     "display": "standalone",
     "orientation": "any",
     "background_color": "#00000000",
